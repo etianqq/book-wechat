@@ -1,2 +1,19 @@
-#css选择器
+# css选择器
+
+
+
+| 选择器 | 样例 | 样例描述 |
+| :--- | :--- | :--- |
+| .class | .intro | 选择所有拥有 class="intro" 的组件 |
+| #id | #firstname | 选择拥有 id="firstname" 的组件 |
+| element | view | 选择所有 view 组件 |
+| element element | view checkbox | 选择所有文档的 view 组件和所有的 checkbox 组件 |
+| ::after | view::after | 在 view 组件后边插入内容 |
+| ::before | view::before | 在 view 组件前边插入内容 |
+
+
+
+
+
+
 
