@@ -11,7 +11,9 @@
 | ::after | view::after | 在 view 组件后边插入内容 |
 | ::before | view::before | 在 view 组件前边插入内容 |
 
-
+```
+定义在 app.wxss 中的样式为全局样式，作用于每一个页面。在 page 的 wxss 文件中定义的样式为局部样式，只作用在对应的页面，并会覆盖 app.wxss 中相同的选择器。
+```
 
 
 
