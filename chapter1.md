@@ -1,3 +1,5 @@
-# First Chapter
+# 基础知识
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+官方文档：
+[https://mp.weixin.qq.com/debug/wxadoc/dev/index.html](https://mp.weixin.qq.com/debug/wxadoc/dev/index.html)
+
