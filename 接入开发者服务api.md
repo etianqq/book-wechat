@@ -15,3 +15,10 @@
 ![](/assets/wechat-config-server-clean.png)
 
 ####2.用wx.request()发起ajax请求
+
+注意一下几点：
+
+1. wx.request发起的是 HTTPS 请求;
+2. url 中不能有端口;
+3. method 的 value 必须为大写（例如：GET）
+4. content-type 默认为 'application/json'
