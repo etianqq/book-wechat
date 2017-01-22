@@ -13,3 +13,5 @@
 ######(3)开发者工具-清缓存、编译
 
 ![](/assets/wechat-config-server-clean.png)
+
+####2.用wx.request()发起ajax请求
